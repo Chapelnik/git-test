@@ -1,2 +1,3 @@
 # git-test
-testin git functionality 
+Testin git functionality <br>
+Тестовый репозиторий для работы с GIT
